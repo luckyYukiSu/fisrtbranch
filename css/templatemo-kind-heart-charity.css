@@ -191,6 +191,10 @@ strong {
 .sectionbg3 {
   background-color: var(--bs-GoodColor);
 }
+.sectionbg4 {
+  background-color: var(--bs-orange);
+}
+
 .section-overlay {
   background: rgba(0, 0, 0, 0.35);
   position: absolute;
@@ -727,6 +731,13 @@ strong {
   display: inline-block;
   width: 800px;
   height: 30px;
+  object-fit: cover;
+}
+.about-image3 {
+  border-radius: var(--border-radius-medium);
+  display: inline-block;
+  width: 6000px;
+  height: 800px;
   object-fit: cover;
 }
 .XXXXXX{
