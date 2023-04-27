@@ -852,7 +852,7 @@ strong {
   padding-bottom: 150px;
 }
 .news-detail-header-section2 {
-  background-image: url('../images/GrowthCamp/');
+  background-image: url('../images/团队建设/期待相遇.png');
   background-repeat: no-repeat;
   background-position: center;
   /* background-size: cover; */
@@ -1378,6 +1378,9 @@ blockquote::before {
 
 .site-footer-link {
   color: var(--white-color);
+}
+.site-footer-link2 {
+  color: var(--black-color);
 }
 
 .copyright-text {
