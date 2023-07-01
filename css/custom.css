@@ -1,6 +1,6 @@
 /*
 
-TemplateMo 581 Kind Heart Charity
+
 
 https://templatemo.com/tm-581-kind-heart-charity
 
@@ -1750,4 +1750,7 @@ blockquote::before {
     padding: 25px;
   }
 }
-
+.img-absolute {
+  max-width: 500px;
+  height: 200px
+}
